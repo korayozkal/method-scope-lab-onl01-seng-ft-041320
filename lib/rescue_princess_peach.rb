@@ -4,5 +4,6 @@ def rescue_princess_peach
 end
 
 ## Comment the below back in to see method scope in action!
+ruby lib/rescue_princess_peach.rb
 
 
